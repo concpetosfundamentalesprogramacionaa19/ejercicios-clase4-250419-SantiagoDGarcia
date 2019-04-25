@@ -22,6 +22,9 @@ public class SeleccionSimple {
         
         if (calificacion >= 85){
             System.out.printf("%s %d\n", miMensaje, calificacion);
+        } else {
+        
+        
         } 
         
         int calificacion_2;
